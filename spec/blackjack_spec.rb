@@ -106,7 +106,7 @@ describe "#hit?" do
 #    expect(self).to receive(:get_user_input).and_return("k")
 #    expect(self).to receive(:get_user_input).and_return("s")
 
-    hit?(7)
+#    hit?(7)
   end
 
 end
